@@ -12,6 +12,6 @@ public class Main {
         customerCart.addProduct(bread);
         customerCart.addProduct(ball);
 
-        System.out.println(customerCart.numProducts());
+        System.out.println("Number of items in customer cart: "+customerCart.numProducts());
     }
 }
