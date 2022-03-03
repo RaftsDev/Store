@@ -1,2 +1,4 @@
-# Store
-Training project
+#                Store
+    /
+
+##  Electronics     Food        SportsGood       
